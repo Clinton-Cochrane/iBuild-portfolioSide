@@ -32,7 +32,7 @@ const projects = [
             "iBuild started as an idea I saw on YouTube and wanted to experiment with: turning a personal portfolio into a small interactive world. It is essentially an interactive paper map that lets someone explore the same information found on this site in a different way. I drew the scene by hand, imported the map into Tiled, brought it into Kaplay, and added player movement, collisions, and interactive areas. The result is intentionally simple. It is less about building a full game and more about learning how game development works while creating a more personal way to present projects, hobbies, photos, and other pieces of who I am",
         technologies: ["React", "KAPLAY"],
         githubUrl: "https://github.com/Clinton-Cochrane/iBuild",
-        projectUrl: "https://i-build-one.vercel.app/",
+        projectUrl: "https://d11g2nf6ymrvk7.cloudfront.net/",
         featured: true,
         commitDetails: "9 commits",
         LastCommitDate: "Sep 2026",
