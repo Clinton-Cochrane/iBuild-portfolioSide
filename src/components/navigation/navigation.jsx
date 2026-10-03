@@ -26,9 +26,13 @@ export default function Navigation() {
                 }>
                     Contact
                 </NavLink>
-                <NavLink to="photos" className={({ isActive }) =>
+                <NavLink to="/photos" className={({ isActive }) =>
                     isActive ? "nav-link nav-link-active" : "nav-link"}>
                     Photos
+                </NavLink>
+                <NavLink to="/blog" className={({ isActive }) =>
+                    isActive ? "nav-link nav-link-active" : "nav-link"}>
+                    Blog
                 </NavLink>
             </div>
         </div>
