@@ -1,11 +1,19 @@
 .site-header {
-    width: min(1200px, calc(100%-4rem));
+    width: min(1200px, calc(100% - 4rem));
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-top: 2rem;
     padding-bottom: 2rem;
+}
+
+@media (max-width: 767px) {
+    .site-header {
+        width: calc(100% - 2rem);
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+    }
 }
 
 .site-brand-mark {
