@@ -5,7 +5,7 @@ const projects = [
         description:
             "A bicycle tracking and maintenance application focused on rides, bikes, components, and service history. I originally built it as a Java school project when I did not have a car and was maintaining four bikes of my own. Over time, I have rebuilt much of it in Kotlin and expanded it into something I actually use. It tracks mileage, maintenance intervals, parts, rides, and service history so a bike’s real workload is easier to understand. It is still a little clunky, and that is okay. There are features I still want to add, including emergency alerts, but it already does what I originally needed: help keep a bike dependable.",
         technologies: ["Kotlin", "Android", "Room", "Java"],
-        githubUrl: "https://github.com/Clinton-Cochrane/Bike_CompanionVersion1.0",
+        githubUrl: "https://github.com/Clinton-Cochrane/Bike_CompanionVersion1.0/actions/workflows/release.yml",
         projectUrl: "https://github.com/Clinton-Cochrane/Bike_CompanionVersion1.0",
         commitDetails: "193 commits",
         LastCommitDate: "Sep 2026",
